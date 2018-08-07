@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.ritmometria" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Ritmometria Non Gravida</name>
+<widget id="io.cordova.ecomercia" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>ecomercia</name>
     <description>
-        Herramienta de ejercicios prácticos de ritmos afrocaribeños
+        Plataforma de negocios en línea
     </description>
     <author email="darwin.plata@creatividata.com" href="http://www,creatividata.com">
         Creatividata - Darwin Plata 
@@ -36,7 +36,7 @@
 	
     <platform name="android">
         <allow-intent href="market:*" />
-		<icon src="icon.png" />
+		<icon src="iconEcom.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />
